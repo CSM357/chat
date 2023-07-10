@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+// code in n branch
         inputEditText = findViewById(R.id.input_edit_text);
         generateButton = findViewById(R.id.generate_button);
         outputTextView = findViewById(R.id.output_text_view);
